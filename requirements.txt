@@ -31,7 +31,7 @@ jinja2
 mtranslate
 PyAudio==0.2.14
 vosk==0.3.45
-Requests==2.31.0
+Requests==2.32.4
 playsound==1.2.2
 python-dotenv==1.0.1
 NetHyTech-STT==1.0
